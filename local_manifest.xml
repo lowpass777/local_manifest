@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/10or/G" name="lowpass777/ofox_device_xiaomi_haydn.git" remote="github" revision="patch-1" />
+ 
+</manifest>
